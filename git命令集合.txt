@@ -1,0 +1,6 @@
+git命令汇总：
+1.新建文件 -> 提交：
+  git add.  						   =》 添加全部文件
+  git add xx.txt   					   =》 添加xx文件
+  git commit -m "提交信息注释"	  			   =》 提交文件
+  git push git@github.com:Likailing/PythonStudyRecord.git  =》 推到服务器上
