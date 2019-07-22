@@ -5,3 +5,9 @@ if a >= 0:
 else:
 	print(-a)
     	
+
+
+b = 123 
+print(b)
+b = 'ABC' 
+print(b)
